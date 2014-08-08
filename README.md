@@ -15,7 +15,7 @@ Maven repository on [GitHub Pages](http://pages.github.com/)
 ...
 
 repositories {
-    maven { url "http://jzaccone.github.io/SlidingMenu-aar" }
+    maven { url "http://hashrocketeer.github.io/SlidingMenu-aar" }
     ...
 }
 
